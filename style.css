@@ -1,0 +1,75 @@
+.main{width:1200px; margin:0px auto;}
+            .header{border-top:20px solid #2C3795; text-align:center; padding-top:15px;border-radius:10px 10px 10px 10px; border-bottom:10px solid #2C3795;padding-bottom:10px; }
+            .logoleft{ width:292px; display:inline-block; vertical-align: top;  }
+            .company-name{width:600px; display:inline-block; vertical-align: top;}
+            .logoright{width:292px; display:inline-block; vertical-align: top;}
+            .logoright img{width:92px; height:85px; border-radius:41px;}
+            .logoleft img{border-radius: 50px;}
+
+            .content{}
+            .leftcol{width: 270px; display:inline-block; vertical-align:top;margin-right: 26px;}
+            .centercol{width:600px; display:inline-block; vertical-align:top;} 
+            .rightcol{width:270px; display:inline-block; vertical-align:top;margin-left: 26px;}
+            .heading h2{background-color: #2C3795;color: white;padding: 11px 21px; font-size: 19px; border-radius: 40px 40px 40px 0px; position: relative; z-index: 99;}
+            .block {background: #e6ebe6;border-radius: 40px 40px 0px 0px;}
+            .menulink li{border-bottom: 1px dotted; padding: 4px 0px; list-style: circle;}
+            .menulink li a{color:black; text-decoration: none;}
+            .menulink {padding-bottom: 10px;}
+
+            .member{text-align: center;}
+            .member img{width:150px; border: 3px solid #2C3795;}
+            .member .name-member{color: #2C3795; font-weight: bold; font-size: 22px; margin: 5px;}
+            .member .position {margin: 0px; padding-bottom: 17px;}
+
+            .banner img{ width: 592px; position: relative; top: -32px; border: 4px solid #2C3795;}
+            .opd li { width: 250px; text-align: center;  display:inline-block; vertical-align:top;}
+            .heading li{background-color: #2C3795;color:white; padding: 10px 23px; border-radius: 20px 20px 20px 20px; margin-top: -21px; }
+            .block.remove-backgroud { background: none;}
+            
+
+
+            ul.link-btn { margin: -16px;}
+            .link-btn li {display: inline-block; width: 43%; height: 25px; background:#2C3795; text-align: center; padding: 6px; margin-right: 25px;border-radius: 30px;}
+            ul.link-btn a {color: white;text-decoration: none;font-size: 17px;font-weight: bold;}
+            .opd-btn{padding: 0px;margin: -28px;margin-top: 1px;margin-bottom: 0px}
+
+            .aboutpmo{ padding-left: 15px;background-color: #2C3795;display: inline-block;width: 516px;height: 43px;border-radius:30px 30px 30px 0px;text-align: left;color: white;text-decoration: none;font-size: 17px;margin: 22px;} 
+            .aboutimage{width: 150px; display:inline-block; vertical-align: top; text-align: center;}
+            .aboutimage img{width: 118px; border: 4px solid #2C3795;}
+            .aboutcontent{width: 434px; display:inline-block;vertical-align: top; margin-top: -20px;}
+            .aboutcontent h2{font-size: 18px; color: #2C3795; margin-bottom: -11px;}
+            .aboutcontent p{font-size: 13px;}
+            .margin-top h2{margin-top: 30px;}
+            span.dr-name {color:#2C3795;font-size: 16px;font-weight: bold;}
+            p.dr-margin {margin-top: -8px;}
+
+            .doc{width: 150px; display:inline-block; vertical-align: top; text-align: center;}
+            .doctorphoto img {width: 130px;height: 140px;border: 2px solid #2C3795;}
+            .doctorphoto {width: 24%;display: inline-block;}
+            .doctorlist {display: inline-block;width: 22%;text-align: left;vertical-align: top;padding-left: 5px;}
+            .doctor-name {text-align: center;margin-top: -14px;}
+            .heading.doctor-margin {margin-top: 16px;}
+            span.drmargin {font-weight: bold;color:#2C3795;}
+            .link{font-weight: bold;color:#2C3795;}
+            p.link-margin {margin-top: -7px; margin-left: 10px;}
+            .all-news { padding-bottom: 5px;font-size: 14px;text-align: right;padding-right: 17px; text-decoration: underline;}
+            .all-news p a{color: black;}
+
+            .Hospital-photo{display: inline-block;} 
+            .hospital-block {border: 1px solid;width: 150px;display: inline-block;vertical-align: top;height: 106px;margin: 0 7px;}
+            .Hospital-photo img {width: 151px;height: 107px;;}
+            .hospital-block {border: 1px solid;width: 151px;display: inline-block;vertical-align: top;height: 107px;margin: 0 7px;}
+            .Hospital-images {margin-top: -10px;}
+            .position-labs{background: black;position: relative;top: -38px;text-align: center;opacity: 0.5;color: #fff;}
+
+            .footer-box{display: inline-block; vertical-align: top; width: 24%;}
+            .footer {background:#000; margin-top: 20px;}
+            .footer-box h2 {color: white;text-transform: uppercase;font-size: 18px;}
+            .footer-content ul li a {color: white;text-decoration: none;text-transform: capitalize;}
+            .footer-content ul li {list-style: none;}
+            p.address {color: white;}
+
+           
+
+
+            
